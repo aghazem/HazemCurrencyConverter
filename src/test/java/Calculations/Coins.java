@@ -1,6 +1,6 @@
 package Calculations;
 
-public enum Coins {
+public enum Coins  {
     ILS,
     USD;
 }

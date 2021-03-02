@@ -1,4 +1,4 @@
-package Calculations;//
+package Calculations;
 
 public abstract class Coin implements MyPackage.ICalcualte {
     public abstract double getValue ();
